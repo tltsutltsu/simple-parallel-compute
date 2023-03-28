@@ -1,0 +1,5 @@
+[package]
+name = "simple-parallel-compute"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ilya <ilya@134.team"]
